@@ -1,1 +1,4 @@
 # BlackCore-Pegasus
+
+## Aviso Legal
+© 2025 Baxto Tattooist / Baxto Style Tattoo. Todos los derechos reservados. Prohibida la copia, distribución, venta o modificación no autorizada del software, diseño, motor, carrocería o identidad visual.
