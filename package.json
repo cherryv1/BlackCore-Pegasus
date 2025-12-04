@@ -1,0 +1,19 @@
+{
+  "name": "blackcore-pegasus",
+  "version": "1.0.0",
+  "description": "Motor BlackCore Pegasus - Servidor Express básico.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "backend"
+  ],
+  "author": "Manus AI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
