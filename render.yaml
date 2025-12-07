@@ -5,10 +5,11 @@ services:
     repo: https://github.com/cherryv1/BlackCore-Pegasus.git
     branch: main
     plan: free
+    healthCheckPath: /
     buildCommand: npm install
     startCommand: node server.js
     envVars:
       - key: PORT
-        value: "10000"
+        value: "${PORT}"
       - key: NODE_ENV
         value: "production"
